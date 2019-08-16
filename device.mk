@@ -471,6 +471,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_BOOT_JARS += \
     WfdCommon
 
+<<<<<<< HEAD
 # Doze
 PRODUCT_PACKAGES += \
     XiaomiDoze
@@ -478,3 +479,8 @@ PRODUCT_PACKAGES += \
 # Wallpapers
 PRODUCT_PACKAGES += \
     WallpapersBReel2019
+=======
+# XiaomiParts
+PRODUCT_PACKAGES += \
+    XiaomiParts
+>>>>>>> b31b5b7... lavender: XiaomiParts: Import XiaomiParts
