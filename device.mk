@@ -475,3 +475,7 @@ PRODUCT_BOOT_JARS += \
 # XiaomiParts
 PRODUCT_PACKAGES += \
     XiaomiParts
+
+# Wallpapers
+PRODUCT_PACKAGES += \
+    WallpapersBReel2019
