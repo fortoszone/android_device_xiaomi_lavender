@@ -475,10 +475,6 @@ PRODUCT_BOOT_JARS += \
 PRODUCT_PACKAGES += \
     XiaomiDoze
 
-# XiaomiParts
-PRODUCT_PACKAGES += \
-    XiaomiParts
-
 # Wallpapers
 PRODUCT_PACKAGES += \
     WallpapersBReel2019
